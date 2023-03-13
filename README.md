@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello 👋, I'm Quentin Lopes 
+
+A Full Stack Developer with a passion for the Front-end!
 
 <!--
 **QLopes22/QLopes22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
