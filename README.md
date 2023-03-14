@@ -1,9 +1,12 @@
-<h1 align="center">It's good to see you 👋, I'm Quentin Lopes</h1>
+<img class="master-header" src="https://preview.redd.it/qdzec7l46a651.gif?format=mp4&v=enabled&s=d3fadaa71bda33d0770003aacc3f31fa02e32857">
+
+<h1 align="center">It's good to see you 👋 I'm Quentin Lopes</h1>
+
 <h3 align="center">A Full-Stack Developer with a passion for the Front-End.</h3>
 
-- 🌱 I’m currently learning **node.js**
-
 - 📫 How to reach me **lopes.quentin16@gmail.com**
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1396703/screenshots/3952983/pixel-goust-2.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
