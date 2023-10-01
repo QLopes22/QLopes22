@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="450" height= "350" src="https://global.discourse-cdn.com/wanikanicommunity/original/3X/9/6/968da79129d087a977b866727cbc071c8f9d28e3.gif">
 </a>
 
-- 🔭 I’m currently working on Judoka
+- 🔭 I’m currently working on "Judoka"
 
 - 🌱 I’m currently learning Sass, Gulp, and Mocha
 
