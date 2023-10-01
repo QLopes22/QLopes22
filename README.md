@@ -1,4 +1,6 @@
-<img align="center" alt="Coding" width="100%" src="https://global.discourse-cdn.com/wanikanicommunity/original/3X/9/6/968da79129d087a977b866727cbc071c8f9d28e3.gif">
+<a href="https://ephemeral-cucurucho-6d0c22.netlify.app/">
+<img align="center" alt="Coding" width="75%" src="https://global.discourse-cdn.com/wanikanicommunity/original/3X/9/6/968da79129d087a977b866727cbc071c8f9d28e3.gif">
+</a>
 
 <h1 align="center">Nice to meet you! My name is Quentin</h1>
 <h3 align="center">A passionate frontend developer from Alpharetta</h3>
