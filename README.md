@@ -1,4 +1,4 @@
-<img class="master-header" src="https://preview.redd.it/qdzec7l46a651.gif?format=mp4&v=enabled&s=d3fadaa71bda33d0770003aacc3f31fa02e32857">
+
 
 <h1 align="center">It's good to see you 👋 I'm Quentin Lopes</h1>
 
