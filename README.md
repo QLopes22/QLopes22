@@ -1,4 +1,4 @@
-
+<img align="center" alt="Coding" width="100%" src="https://global.discourse-cdn.com/wanikanicommunity/original/3X/9/6/968da79129d087a977b866727cbc071c8f9d28e3.gif">
 
 <h1 align="center">Nice to meet you! My name is Quentin</h1>
 <h3 align="center">A passionate frontend developer from Alpharetta</h3>
@@ -17,7 +17,6 @@
 
 - ⚡ Fun fact I am also a concept artist! check out some of my work on Behance.
 
-<img align="right" alt="Coding" width="400" src="https://global.discourse-cdn.com/wanikanicommunity/original/3X/9/6/968da79129d087a977b866727cbc071c8f9d28e3.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
